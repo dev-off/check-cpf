@@ -1,5 +1,3 @@
-
-
 class validateCpf {
     constructor(sentCpf) {
         Object.defineProperty(this, 'cleanCpf', {
