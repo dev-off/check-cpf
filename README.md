@@ -1,1 +1,1 @@
-# Função javascript para checar se o cpf indormado é valido
+# Função javascript para checar se o CPF informado é valido.
