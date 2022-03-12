@@ -1,1 +1,2 @@
-# Função javascript para checar se o CPF informado é valido.
+# Check cpf
+<p> Checa se um determinado CPF é valido.</p>
