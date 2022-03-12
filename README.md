@@ -1,2 +1,2 @@
 # Check cpf
-<p> Checa se um determinado CPF é valido.</p>
+<p>Verifica se um determinado CPF é valido.</p>
