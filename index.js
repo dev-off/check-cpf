@@ -41,10 +41,18 @@ class validateCpf {
 }
 
 
+// const inputValue = formData.get("cpf");
+// var dataEntry = new formData(document.querySelector('form'));
+formData.addEventListener('submit', (e)=>{
+  
+    e.preventDefault();
+   
+    
+})
 
 // data entry
-const cpf = new validateCpf('705.484.450-52');
 
+const cpf = new validateCpf('705.484.450-52');
 if(cpf.validate()){
     console.log('CPF is valid')
 }else{
